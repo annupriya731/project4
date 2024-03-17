@@ -1,0 +1,46 @@
+
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+
+
+
+#link{
+background-image: url("PROJECT4.jpg");
+background-size: cover; 
+}
+
+#navbar1{
+      padding: 20px;
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+
+
+}
+#navbar2{
+    background-color: #dadada3a;
+    padding: 20px;
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+}
+#mainpara{
+text-align: justify;
+
+
+}
+
+
+
+
